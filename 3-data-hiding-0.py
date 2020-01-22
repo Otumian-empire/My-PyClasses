@@ -9,6 +9,7 @@
 # double underscore = private
 
 class Person:
+
 	_name = ""
 	_age = 0
 	
